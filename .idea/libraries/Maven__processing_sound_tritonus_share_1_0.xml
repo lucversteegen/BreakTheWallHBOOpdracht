@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: processing.sound:tritonus_share:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/processing/sound/tritonus_share/1.0/tritonus_share-1.0.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/processing/sound/tritonus_share/1.0/tritonus_share-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

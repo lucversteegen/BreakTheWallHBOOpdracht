@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: processing.sound:mp3spi:1.9.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/processing/sound/mp3spi/1.9.4/mp3spi-1.9.4.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/processing/sound/mp3spi/1.9.4/mp3spi-1.9.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
