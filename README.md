@@ -1,4 +1,4 @@
-# BreakTheWallHBOOpdracht
+# BreakTheWall 2D Pong style game
 
 Old Java project, but it does still compile. 
 
