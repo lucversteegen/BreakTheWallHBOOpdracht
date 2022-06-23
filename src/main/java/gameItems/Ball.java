@@ -75,7 +75,7 @@ public class Ball extends GameObject implements ICollidableWithGameObjects {
 	}
 	
 	/**
-	 * Kijkt naar welke kant van het object de bal heeft geraakt en kaarst weg
+	 * Kijkt naar welke kant van het object de bal heeft geraakt en kaatst weg
 	 */
 
 	@Override
